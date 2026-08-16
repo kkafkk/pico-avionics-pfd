@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/9a5ac9d3-0c27-4f7b-96cf-2140ffe8367e
 
 *Note: LEDs require 220Ω current-limiting resistors connected to GND.*
 
-🚀 Quick Start
+## 🚀 Quick Start
 1. Setup RP2040 (Flight Computer)
 
 2. Flash standard MicroPython firmware onto the RP2040 board.
